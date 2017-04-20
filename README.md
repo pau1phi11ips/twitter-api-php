@@ -17,10 +17,10 @@ If you found it useful, please upvote / leave a comment! :)
 The aim of this class is simple. You need to:
 
 - Include the class in your PHP code
-- [Create a twitter app on the twitter developer site](https://dev.twitter.com/apps/)
+- [Create a twitter app on the twitter developer site](https://apps.twitter.com/app/new)
 - Enable read/write access for your twitter app
 - Grab your access tokens from the twitter developer site
-- [Choose a twitter API URL to make the request to](https://dev.twitter.com/docs/api/1.1/)
+- [Choose a twitter API URL to make the request to](https://dev.twitter.com/rest/reference/)
 - Choose either GET / POST (depending on the request) 
 - Choose the fields you want to send with the request (example: `array('screen_name' => 'usernameToBlock')`)
 
